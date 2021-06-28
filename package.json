@@ -1,0 +1,16 @@
+{
+  "name": "easyexcel4nodeexport",
+  "version": "1.0.0",
+  "description": "Easy Excel Export without complex code to calculate cell addess and style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maaz Anzar",
+  "license": "MIT",
+  "dependencies": {
+    "excel4node": "^1.7.2",
+    "moment": "^2.29.1",
+    "shelljs": "^0.8.4"
+  }
+}
